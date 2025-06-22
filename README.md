@@ -9,5 +9,5 @@
 
 <img src="./assets/separator.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7BF&width=530&height=40&lines=.NET,+C%23;MAUI,+WPF;GIT,+GITHUB" alt="Typing SVG" style="vertical-align: middle;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7BF&width=530&height=40&lines=.NET,+C%23;MAUI,+WPF;GIT,+GITHUB;VISUAL+STUDIO,+VISUAL+STUDIO+CODE;TERMINAL" alt="Typing SVG" style="vertical-align: middle;">
 
