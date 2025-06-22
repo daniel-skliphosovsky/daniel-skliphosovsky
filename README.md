@@ -4,7 +4,7 @@
 <img src="./assets/separator.gif">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,github,bash" height="70" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=cs,github,visualstudio,vscode,postman,bash" height="70" style="vertical-align: middle;" />
 </p>
 
 <img src="./assets/separator.gif">
