@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: github-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
