@@ -1,4 +1,7 @@
+## Development Activity Overview
+
 ![Metrics](./github-metrics.svg)
 
-![Languages](./github-languages.svg)
+## Technology Stack Breakdown
 
+![Languages](./github-languages.svg)
